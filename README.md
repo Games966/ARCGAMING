@@ -2,14 +2,14 @@
 ARCGAMING is the one stop for all gamers to bypass web filters. Enjoy!
 <html>
   <head>
-    <title>What Did We Do Yesterday?</title>
+
   </head>
   <p>Hello,</p>
-  <h1>Class links</h1>
+  <h1>Website Links</h1>
   <p></p>
-  <h2>Intro to Coding</h2>
+  <h2>Main Page</h2>
   <p>
-    The classroom Canvas site is located at:
+    Main game website is located at:
     <a href="https://sandiegounified.instructure.com/courses/176895"
       >https://sandiegounified.instructure.com/courses/176895</a
     >
@@ -55,20 +55,6 @@ ARCGAMING is the one stop for all gamers to bypass web filters. Enjoy!
       >
     </li>
   </ul>
-  <p>- Mr. R</p>
+  <p>- The ArcGaming Team</p>
 
-  <h3>Videos for the Week</h3>
-
-  <h4>Period 6 - Academic Prep</h4>
-  <ul>
-    <li>Counselor's Corner - No video this week</li>
-    <li>
-      Principal's Chat -
-      <a
-        href="https://drive.google.com/file/d/1mDEhqHeUCVgpQtduUX4dUJISupbpCUiT/view?usp=sharing"
-        >Click here</a
-      >
-    </li>
-    <a href="http://www.sdswimsafer.org">http://www.sdswimsafer.org</a>
-  </ul>
-</html>
+ 
